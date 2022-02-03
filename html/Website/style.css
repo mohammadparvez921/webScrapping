@@ -1,0 +1,19 @@
+h1{
+    margin-left: 3rem;
+}
+li{
+   list-style:none;
+   margin-left: 2rem;
+}
+img[src="Images/lap.jpeg"]{
+    width: 1400px;
+    height: 800px;
+}
+.footer{
+    height:80px;
+    background-color:black;
+    color: white;
+}
+.footer>p{
+    font: size 80px;
+}
